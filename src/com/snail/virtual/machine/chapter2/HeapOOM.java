@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * VM args:-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
+ * 堆内存溢出异常测试
  */
 public class HeapOOM {
     static class OOMObject{}
